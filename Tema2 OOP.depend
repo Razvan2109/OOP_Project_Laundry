@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1575040883 source:d:\programareboss\proiecteboss\tema2 oop-remake\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<typeinfo>
+	<windows.h>
+	<fstream>
+

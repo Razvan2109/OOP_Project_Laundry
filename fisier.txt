@@ -1,0 +1,19 @@
+2
+10
+camasa inchisa
+camasa deschisa
+rochie inchisa
+palton deschisa
+costum deschisa
+palton deschisa
+geaca deschisa
+geaca deschisa
+palton deschis
+costum inchisa
+
+4
+palton deschisa
+rochie inchisa
+pantaloni deschisa
+camasa deschisa
+
